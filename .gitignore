@@ -1,0 +1,20 @@
+# Career data is local; only references/templates/ contains distributable templates.
+career-memory/
+**/career-memory/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+data/
+private/
+*.log
+.DS_Store
+Thumbs.db
+.workbuddy/
+.codex/

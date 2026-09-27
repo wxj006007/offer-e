@@ -1,0 +1,18 @@
+{
+  "recorded_on": "2026-09-27",
+  "source_type": "Local WorkBuddy experts marketplace package",
+  "source_manifest": ".codebuddy-plugin/plugin.json",
+  "manifest_sha256": "fb2cfd517bb51888238569630bf58df91abaab68dcd96abf3dfadb1602572cff",
+  "manifest_excerpt": {
+    "name": "offer-e",
+    "version": "1.0.0",
+    "author": {
+      "name": "WorkBuddy",
+      "email": "support@workbuddy.example"
+    },
+    "license": "MIT"
+  },
+  "standalone_license_found": false,
+  "upstream_public_repository_verified": false,
+  "note": "Metadata evidence only; no additional rights-holder authorization was obtained."
+}

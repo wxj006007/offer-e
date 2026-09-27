@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# Markdown uses two trailing spaces for hard line breaks.
+*.md text eol=lf whitespace=-blank-at-eol
+*.py text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+LICENSE text eol=lf
